@@ -1,7 +1,28 @@
 aid: skopenow
 name: Skopenow
-description: Skopenow is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Skopenow is an open-source intelligence (OSINT) platform built to modernize
+  digital investigations. Founded in 2015 and backed by Techstars, it fuses
+  public records, consumer data, crime data, news, and online content with
+  AI-powered fraud and threat-detection models to generate intelligence reports
+  on entities, uncover and visualize networks between people and organizations,
+  and surface operational risks. Its product suite spans Grid, Pre-Check,
+  Workbench, Link Analysis, and Rabbit, serving global security, insurance,
+  government, law enforcement, legal, and media teams — more than 1,500
+  organizations, including a fifth of the Fortune 500. Skopenow ships as a
+  login-gated web application rather than a public developer API.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.skopenow.com/hubfs/homepage%20open%20graph%20image.jpg
 url: https://raw.githubusercontent.com/api-evangelist/skopenow/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +32,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Open Source Intelligence
+- OSINT
+- Investigations
+- Threat Detection
+- Fraud Detection
+- Due Diligence
+- Link Analysis
+- Security
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,24 @@ maintainers:
 common:
 - type: Website
   url: https://skopenow.com/
+- type: SignUp
+  url: https://www.skopenow.com/try
+- type: Login
+  url: https://app.skopenow.com/login
+- type: Pricing
+  url: https://www.skopenow.com/pricing
+- type: TermsOfService
+  url: https://www.skopenow.com/legal
+- type: PrivacyPolicy
+  url: https://www.skopenow.com/privacy-policy
+- type: Support
+  url: https://www.skopenow.com/contact
+- type: LLMsTxt
+  url: llms/skopenow-llms.txt
+- type: DomainSecurity
+  url: security/skopenow-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1

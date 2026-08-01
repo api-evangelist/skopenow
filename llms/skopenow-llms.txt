@@ -1,0 +1,22 @@
+# Website Documentation
+
+> A concise guide to the documentation available on this site, optimized for AI ingestion.
+
+## Available Markdown Pages
+
+* [Home] (https://www.skopenow.com/hubfs/markdown/skopenow-home.md) - An introduction to Skopenow and its capabilities
+* [Link Analysis] (https://www.skopenow.com/hubfs/markdown/products/skopenow-products-linkanalysis.md) - An overview of Skopenow's Link Analysis product
+* [Grid] (https://www.skopenow.com/hubfs/markdown/products/skopenow-products-grid.md) - An overview of Skopenow's Grid product
+* [Pre-Check] (https://www.skopenow.com/hubfs/markdown/products/skopenow-products-precheck.md) - An overview of Skopenow's Pre-Check product
+* [Rabbit] (https://www.skopenow.com/hubfs/markdown/products/skopenow-products-rabbit.md) - An overview of Skopenow's Rabbit product
+* [Workbench] (https://www.skopenow.com/hubfs/markdown/products/skopenow-products-workbench.md) - An overview of Skopenow's Workbench product
+* [Global Security] (https://www.skopenow.com/hubfs/markdown/industries/skopenow-industries-globalsecurity.md) - How Skopenow can be used by Global Security organizations
+* [Insurance] (https://www.skopenow.com/hubfs/markdown/industries/skopenow-industries-insurance.md) - How Skopenow can be used by Insurance organizations
+* [Government] (https://www.skopenow.com/hubfs/markdown/industries/skopenow-industries-government.md) - How Skopenow can be used by Government organizations
+* [Legal] (https://www.skopenow.com/hubfs/markdown/industries/skopenow-industries-legal.md) - How Skopenow can be used by Law Firms
+* [Law Enforcement] (https://www.skopenow.com/hubfs/markdown/industries/skopenow-industries-lawenforcement.md) - How Skopenow can be used by Law Enforcement organizations
+* [Media] (https://www.skopenow.com/hubfs/markdown/industries/skopenow-industries-media.md) - How Skopenow can be used by Media organizations
+* [About] (https://www.skopenow.com/hubfs/markdown/resources/skopenow-resources-aboutus.md) - A brief history of Skopenow and Skopenow's mission
+* [Frequently Asked Questions] (https://www.skopenow.com/hubfs/markdown/resources/skopenow-resources-faq.md) - Answers to frequently asked questions about Skopenow's products
+* [Code of Conduct] (https://www.skopenow.com/hubfs/markdown/resources/skopenow-resources-codeofconduct.md) - An overview of ways Skopenow can and cannot be used in practice
+* [Terms & Conditions] (https://www.skopenow.com/hubfs/markdown/resources/skopenow-resources-terms.md) - Important Terms and Conditions of the Skopenow platform
