@@ -11,6 +11,17 @@ description: >-
   government, law enforcement, legal, and media teams — more than 1,500
   organizations, including a fifth of the Fortune 500. Skopenow ships as a
   login-gated web application rather than a public developer API.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
